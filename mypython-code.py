@@ -1,2 +1,2 @@
 for x in range(10):
-print("hello this is my first python code")
+    print("Hello, this is my first Python code")
